@@ -10,6 +10,6 @@ app.get("/",(req, res) => {
         res.sendFile(path.join(__dirname, "./views/home.html"))
 })
 
-app.listen(port, () => console.log(`htpp://localhost:${port}`));
+app.listen(port, () => console.log(`http://localhost:${port}`));
 
  
