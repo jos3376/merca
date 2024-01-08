@@ -1,0 +1,15 @@
+footer h4{
+    text-align: center;
+    margin: 0;
+}
+
+footer  i{
+    color: var(--sky-blue);
+    font-size:2em;
+    display: block;
+    margin: 0 auto;
+   }
+   
+   footer p{
+    margin: 0;
+   }

@@ -1,0 +1,45 @@
+body.home-body{
+ 
+}
+
+body .home-body .main.header{
+  
+}
+
+ body.logo{}
+
+ body .nav-header{}
+
+ body .nav-header .serch{
+  display: inline-block;
+  margin:30px 40px;
+  background-color: white;
+  padding: 2px;
+ }
+
+ body .nav-header  {
+  
+ }
+
+header div.burger-menu{
+   color:white;
+  background-color: var(--blue);
+  padding:5px 8px 5px 8px;
+  border-radius: 10%;
+  display:inline-block;
+  margin: 0 50% 0 50%;
+  font-size: 1.8rem;
+}
+
+header .list-1 .header-link{
+    font-size: 16px;
+    margin-top: 100px;
+      }
+header .list-2 .header-link{
+    
+    font-size: 16px;
+    margin-top: 100px;
+      }
+      
+header{
+    background-color:var(--yellow);}

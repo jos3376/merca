@@ -1,0 +1,28 @@
+:root{
+--yellow:#EAC926;
+--blue:#03264C;
+--sky-blue:#1259c3;
+--dark-grey:#666;
+--light-grey:#ebebeb;
+--green:#39b54a;
+
+    --FamilyRoboto:'Roboto', sans-serif;}
+
+
+*{
+    box-sizing: border-box;
+    font-family: var(--FamilyRoboto);
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    padding:0
+}
