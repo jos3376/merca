@@ -8,28 +8,31 @@ body .home-body .main.header{
 
  body.logo{}
 
+
+header div.burger-menu{
+  color:white;
+ background-color: var(--blue);
+ padding:5px 8px 5px 8px;
+ border-radius: 10%;
+ display:inline-block;
+ margin: 0 50% 0 50%;
+ font-size: 1.8rem;
+}
+
  body .nav-header{}
 
  body .nav-header .serch{
   display: inline-block;
-  margin:30px 40px;
+  margin: 20px 40px 10px 20px;
   background-color: white;
   padding: 2px;
  }
 
- body .nav-header  {
-  
+ .nav-header  .serch i{
+  background-color: white;
+  margin: 3px 3px 0px 30px;
  }
 
-header div.burger-menu{
-   color:white;
-  background-color: var(--blue);
-  padding:5px 8px 5px 8px;
-  border-radius: 10%;
-  display:inline-block;
-  margin: 0 50% 0 50%;
-  font-size: 1.8rem;
-}
 
 header .list-1 .header-link{
     font-size: 16px;
