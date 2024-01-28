@@ -6,8 +6,8 @@ footer h4{
 footer  i{
     color: var(--sky-blue);
     font-size:2em;
-    display: block;
-    margin: 0 auto;
+    display: inline-flex;
+    margin-block: auto;
     } /*consultar*/
    
    footer p{

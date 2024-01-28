@@ -1,48 +1,52 @@
 body.home-body{
- 
+ }
+
+body.home-body header.main-header{
+  background-color:var(--yellow);}
+
+body .main.header img.logo{
+  display:block;
+  margin: 0 auto;
+
 }
 
-body .home-body .main.header{
-  
-}
+body header nav.nav-header{}
 
- body.logo{}
-
-
-header div.burger-menu{
-  color:white;
- background-color: var(--blue);
- padding:5px 8px 5px 8px;
- border-radius: 10%;
- display:inline-block;
- margin: 0 50% 0 50%;
- font-size: 1.8rem;
-}
-
- body .nav-header{}
-
- body .nav-header .serch{
-  display: inline-block;
-  margin: 20px 40px 10px 20px;
+body header nav.nav-header li a.serch{
+  display: block;
+  margin: 0 auto;
   background-color: white;
   padding: 2px;
  }
 
- .nav-header  .serch i{
-  background-color: white;
-  margin: 3px 3px 0px 30px;
+ body header nav.nav-header li a.buy{
+  
+  margin: 0 auto;
  }
 
+ body header nav ul.list-1{}
 
-header .list-1 .header-link{
+body header nav ul.list-1 a.header-link{
     font-size: 16px;
     margin-top: 100px;
       }
-header .list-2 .header-link{
+      
+body header nav ul.list-2{}
+
+body header nav ul.list-2 a.header-link{
     
     font-size: 16px;
     margin-top: 100px;
       }
       
-header{
-    background-color:var(--yellow);}
+
+body header div.burger-menu i{
+        color:white;
+       background-color: var(--blue);
+       padding:5px 8px 5px 8px;
+       border-radius: 10%;
+       display:inline-block;
+       margin:0 50% 0 50%;
+       font-size: 1.8rem;
+      }
+      
