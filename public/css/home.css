@@ -48,3 +48,6 @@ main.home section.ofertas ul.ul-ofertasli p.size-descripcion{
 
 
     
+ body.home-body .carousel-inner{
+        height: 250px;
+ }
