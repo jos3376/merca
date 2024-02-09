@@ -1,0 +1,15 @@
+header.main-header{
+    background-color: var(--yellow
+    );
+}
+div.burger-menu{
+    display: none;
+}
+footer.main-footer i{
+color: var(--sky-blue);
+    font-size: 2em;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100%; 
+    margin: 0;} 
