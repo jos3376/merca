@@ -16,13 +16,21 @@ main.home section.productos ul.ul-productos li img{}
 
 
 main.home section.productos ul.ul-productos li p.size-precio{
-        font-size: 18px;font-family: 'Roboto', sans-serif;}
+        font-size: 18px;
+        font-family: 'Roboto', sans-serif;}
 
 main.home section.productos ul.ul-productos li p.size-descuento{
-        font-size: 16px; font-family: 'Roboto', sans-serif;}
+        font-size: 16px;
+         font-family: 'Roboto', sans-serif;
+        color:var(--green);}
 
 main.home section.productos ul.ul-productos li p.size-descripcion{
-        font-size: 16px; font-family: 'Roboto', sans-serif;}
+        font-size: 16px;
+         font-family: 'Roboto', sans-serif;}
+
+main.home section.productos ul.ul-productos li i{
+                color: var(--green);
+                }                
 
 main.home section.ofertas{}
 
@@ -40,13 +48,20 @@ main.home section.ofertas ul.ul-ofertas li img{}
 main.home section.ofertas ul.ul-ofertas li p.size-precio{
                 font-size: 18px;font-family: 'Roboto', sans-serif;}
         
-main.home section.ofertass ul.ul-ofertas li p.size-descuento{
-                font-size: 16px; font-family: 'Roboto', sans-serif;}
-        
+main.home section.ofertas ul.ul-ofertas li p.size-descuento{
+                font-size: 16px; 
+                font-family: 'Roboto', sans-serif;
+                color:var(--green);}
+                       
 main.home section.ofertas ul.ul-ofertasli p.size-descripcion{
                 font-size: 16px; font-family: 'Roboto', sans-serif;}        
 
 
+main.home section.ofertas ul.ul-ofertas li i{
+        border-radius: 50%;                
+        color: var(--green);}  
+
+                
     
  body.home-body .carousel-inner{
         height: 300px;
