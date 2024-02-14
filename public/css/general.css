@@ -5,13 +5,16 @@
 --dark-grey:#666;
 --light-grey:#ebebeb;
 --green:#39b54a;
-
+--white:#FFF;
 --FamilyRoboto:'Roboto', sans-serif;}
 
 
 *{
     box-sizing: border-box;
     font-family: var(--FamilyRoboto);
+    margin: ​0​px​; 
+    padding: ​0​px​;   
+    
 }
 
 a{

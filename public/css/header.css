@@ -2,7 +2,9 @@ body.home-body{
  }
 
 body.home-body header.main-header{
-  background-color:var(--yellow);}
+  background-color:var(--yellow);
+  
+  }
 
 body .main.header img.logo{
   display:block;
@@ -49,4 +51,18 @@ body header div.burger-menu i{
        margin:0 50% 0 50%;
        font-size: 1.8rem;
       }
+      header div.carousel-slide{
+        display: none;}
       
+      /* Header tablet */
+@media (min-width: 426px) {
+  body header div.burger-menu i{
+    display: none;
+  }
+  header div.carousel-slide 
+  {display: block;} 
+}
+ 
+
+/* Header desktop */
+@media (min-width: 769px) {}

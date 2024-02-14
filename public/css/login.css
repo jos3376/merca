@@ -2,9 +2,8 @@ header.main-header{
     background-color: var(--yellow
     );
 }
-div.burger-menu{
-    display: none;
-}
+
+
 footer.main-footer i{
 color: var(--sky-blue);
     font-size: 2em;
