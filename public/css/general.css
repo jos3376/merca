@@ -1,19 +1,8 @@
-:root{
---yellow:#EAC926;
---blue:#03264C;
---sky-blue:#1259c3;
---dark-grey:#666;
---light-grey:#ebebeb;
---green:#39b54a;
---white:#FFF;
---FamilyRoboto:'Roboto', sans-serif;}
-
-
 *{
     box-sizing: border-box;
     font-family: var(--FamilyRoboto);
-    margin: ​0​px​; 
-    padding: ​0​px​;   
+    margin: 0px; 
+    padding: 0px;   
     
 }
 
@@ -32,3 +21,13 @@ ul{
    padding:0;
    list-style: none;
 }
+:root{
+    --yellow:#EAC926;
+    --blue:#03264C;
+    --sky-blue:#1259c3;
+    --dark-grey:#666;
+    --light-grey:#ebebeb;
+    --green:#39b54a;
+    --white:#FFF;
+    --FamilyRoboto:'Roboto', sans-serif;}
+    
